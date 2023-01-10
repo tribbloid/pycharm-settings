@@ -36,4 +36,7 @@
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
     </nesting-rules>
   </component>
+  <component name="UISettings">
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+  </component>
 </application>
